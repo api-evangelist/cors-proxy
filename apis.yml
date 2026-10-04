@@ -39,7 +39,6 @@ apis:
   - name: CORS Proxy
     description: "Get around the dreaded CORS error by using this proxy as a middle man"
     humanURL: https://github.com/burhanuday/cors-proxy
-    baseURL: https://github.com/burhanuday/cors-proxy
     tags:
       - Development
     properties:
